@@ -2,6 +2,8 @@
 
 一个用于托管和展示 Cursor AI 生成项目的现代化网站，支持代码生成过程回放功能。
 
+Link：cursor-replay.vercel.app
+
 ## 功能特点
 
 - 🎨 **现代化 UI 设计** - 参考 Cursor 官网风格，简洁优雅
